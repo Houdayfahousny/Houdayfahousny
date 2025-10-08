@@ -27,9 +27,9 @@
   <a href="https://github.com/Houdayfahousny" target="_blank" title="GitHub">
     <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/>
   </a>
-   &nbsp;&nbsp;
+    &nbsp;&nbsp;
   <a href="https://leetcode.com/u/houdayfa/" target="_blank" title="Leetcode">
-    <img src="https://skillicons.dev/icons?i=leetcode" height="32" alt="Leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" height="32" alt="Leetcode"/>
   </a>
 </p>
 
