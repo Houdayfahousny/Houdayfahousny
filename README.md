@@ -111,17 +111,6 @@
 
 ---
 
-### 🤖 [RAG-based Training Session Generator](https://github.com/Houdayfahousny/rag-training-system)
-**Jul 2025 – Sep 2025 | NTT Data Internship**
-- Developed **Retrieval-Augmented Generation (RAG)** system for automated training content generation
-- Implemented document chunking with **LangChain** and vector storage using **FAISS**
-- Integrated **LLaMA 3 (8B)** model for context-aware, real-time learner support
-- Built **FastAPI** backend with **WebSocket** support for interactive web application
-
-**Tech:** LangChain, FAISS, LLaMA 3, Hugging Face, FastAPI, WebSocket, Python
-
----
-
 ### 🔗 [Co-Author Network Analysis in Engineering](https://github.com/Houdayfahousny/coauthor-network-analysis)
 **Mar 2024 – Jun 2024**
 - Scraped academic author data from **Semantic Scholar** using **Selenium**
@@ -136,9 +125,12 @@
 
 ### 🏢 **Data Engineer & AI Intern** @ NTT Data
 **Jul 2025 – Sep 2025 | Casablanca, Morocco**
-- Designed and deployed RAG-based system for automated training content generation
-- Applied LLM optimization techniques with LangChain and FAISS vector databases
-- Developed production-ready FastAPI backend with real-time WebSocket communication
+- Developed **Retrieval-Augmented Generation (RAG)** system for automated training content generation
+- Implemented document chunking with **LangChain** and vector storage using **FAISS**
+- Integrated **LLaMA 3 (8B)** model for context-aware, real-time learner support
+- Built **FastAPI** backend with **WebSocket** support for interactive web application
+
+  **Tech:** LangChain, FAISS, LLaMA 3, Hugging Face, FastAPI, WebSocket, Python
 
 ---
 
