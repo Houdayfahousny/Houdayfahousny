@@ -40,7 +40,7 @@
 - 💡 Passionate about **RAG systems, LLMs, and Generative AI applications**
 - 🛠️ Full-stack capabilities with **Django, FastAPI, React, and REST APIs**
 - 📊 Skilled in **data visualization** using **Power BI** and analytics tools
-- 🌱 Currently preparing for **AWS Data Engineer Associate** certification
+- 🌱 Currently learning **Data modeling & AI** 
 - 🤝 Open to collaborations, internships, and data engineering opportunities
 
 ---
@@ -138,11 +138,6 @@
 
 ---
 
-## 📜 Certifications
-
-- 🎓 **AWS Data Engineer Associate** (In Progress)
-
----
 
 ## 📊 GitHub Stats
 
@@ -155,13 +150,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houdayfahousny&theme=radical&hide_border=false&layout=compact" height="170" />
 </p>
 
----
-
-## 🌍 Languages
-
-- 🇲🇦 **Arabic** – Native
-- 🇫🇷 **French** – Fluent
-- 🇬🇧 **English** – Professional
 
 ---
 
