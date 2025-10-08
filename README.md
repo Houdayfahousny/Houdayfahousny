@@ -1,14 +1,180 @@
-<h1 align="center">Hi 👋, I'm Houdayfa HOUSNY</h1>
-<h3 align="center">A passionate Data/Software engineer from Morocco</h3>
+<!-- Profile README – @Houdayfahousny -->
 
-- 🌱 I’m currently learning **AI & data modeling**
+<!-- ======= Banner ======= -->
+<h1 align="center">👋 Salam Alaykom, I'm Houdayfa HOUSNY</h1>
+<h3 align="center">Data Engineering Student @ INPT | Passionate about Big Data & AI</h3>
+<h4 align="center">🎓 Seeking Final-Year Internship (PFE) | January 2026</h4>
 
-- 📫 How to reach me **houdayfahousny@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/houdayfa housny" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="houdayfa housny" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Houdayfahousny&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.scala-lang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scala/scala-original.svg" alt="scala" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
+
+## 🔗 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/houdayfahousny/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="32" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:houdayfahousny@gmail.com" target="_blank" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" height="32" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Houdayfahousny" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/>
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 Final-year **Data Engineering** student at **INPT** (Rabat, Morocco)
+- 🔍 Focused on **Big Data, Cloud Architecture, Real-Time Streaming, and AI/ML**
+- ☁️ Experienced with **Azure, GCP, and AWS** cloud platforms
+- 🚀 Building scalable data pipelines with **Hadoop, Spark, Kafka, and Airflow**
+- 💡 Passionate about **RAG systems, LLMs, and Generative AI applications**
+- 🛠️ Full-stack capabilities with **Django, FastAPI, React, and REST APIs**
+- 📊 Skilled in **data visualization** using **Power BI** and analytics tools
+- 🌱 Currently preparing for **AWS Data Engineer Associate** certification
+- 🤝 Open to collaborations, internships, and data engineering opportunities
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,scala&perline=12" height="40" />
+</p>
+
+### 🗄️ Databases & Messaging
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,kafka,redis&perline=12" height="40" />
+</p>
+
+### 🧠 AI / Machine Learning
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch&perline=12" height="40" />
+</p>
+
+### 🌐 Backend & APIs
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=django,fastapi,react&perline=12" height="40" />
+</p>
+
+### ☁️ Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,git,linux,terraform&perline=12" height="40" />
+</p>
+
+### 📊 Big Data & Analytics
+<p align="center">
+  <img src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=for-the-badge&logo=apachespark&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" height="32" />
+  <img src="https://img.shields.io/badge/Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black" height="32" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" height="32" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🏭 [GCP Real-Time IoT Pipeline for Industrial Analytics](https://github.com/Houdayfahousny/gcp-iot-pipeline)
+**Oct 2024 – Jan 2025**
+- Built end-to-end IoT data pipeline connecting sensors via **MQTT (HiveMQ)** to **Apache Kafka**
+- Processed real-time streams with **Spark Structured Streaming** and exported to **BigQuery**
+- Created interactive **Power BI** dashboards for machine performance monitoring
+- Orchestrated workflows with **Apache Airflow** for automated data processing
+
+**Tech:** MQTT, Kafka, Spark/PySpark, BigQuery, Power BI, Airflow
+
+---
+
+### 🏅 [Azure Tokyo Olympics Data Analytics](https://github.com/Houdayfahousny/azure-olympics-analytics)
+**Jul 2024 – Aug 2024**
+- Designed ETL pipeline with **Azure Data Factory** and **Azure Data Lake Gen2**
+- Transformed 11,000+ athlete records using **Azure Databricks (PySpark)**
+- Performed SQL analytics in **Azure Synapse Analytics** for medal distribution and gender insights
+- Generated visual reports analyzing 339 Olympic events across 206 countries
+
+**Tech:** Azure Data Factory, Azure Data Lake Gen2, Databricks, Synapse Analytics, PySpark, SQL
+
+---
+
+### 🤖 [RAG-based Training Session Generator](https://github.com/Houdayfahousny/rag-training-system)
+**Jul 2025 – Sep 2025 | NTT Data Internship**
+- Developed **Retrieval-Augmented Generation (RAG)** system for automated training content generation
+- Implemented document chunking with **LangChain** and vector storage using **FAISS**
+- Integrated **LLaMA 3 (8B)** model for context-aware, real-time learner support
+- Built **FastAPI** backend with **WebSocket** support for interactive web application
+
+**Tech:** LangChain, FAISS, LLaMA 3, Hugging Face, FastAPI, WebSocket, Python
+
+---
+
+### 🔗 [Co-Author Network Analysis in Engineering](https://github.com/Houdayfahousny/coauthor-network-analysis)
+**Mar 2024 – Jun 2024**
+- Scraped academic author data from **Semantic Scholar** using **Selenium**
+- Built collaboration network graph connecting co-authors in Moroccan engineering research
+- Visualized network relationships with **Pyvis** and **Matplotlib** to identify key influencers
+
+**Tech:** Python, Selenium, NetworkX, Matplotlib, Pyvis
+
+---
+
+## 💼 Professional Experience
+
+### 🏢 **Data Engineer & AI Intern** @ NTT Data
+**Jul 2025 – Sep 2025 | Casablanca, Morocco**
+- Designed and deployed RAG-based system for automated training content generation
+- Applied LLM optimization techniques with LangChain and FAISS vector databases
+- Developed production-ready FastAPI backend with real-time WebSocket communication
+
+---
+
+## 📜 Certifications
+
+- 🎓 **AWS Data Engineer Associate** (In Progress)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Houdayfahousny&theme=radical&hide_border=false&include_all_commits=true&count_private=true" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Houdayfahousny&theme=radical&hide_border=false" height="170" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Houdayfahousny&theme=radical&hide_border=false&layout=compact" height="170" />
+</p>
+
+---
+
+## 🌍 Languages
+
+- 🇲🇦 **Arabic** – Native
+- 🇫🇷 **French** – Fluent
+- 🇬🇧 **English** – Professional
+
+---
+
+<p align="center">
+  <i>💡 "Transforming complex data into innovative solutions with Big Data & AI"</i>
+</p>
+
+<p align="center">
+  📫 Reach me at: <a href="mailto:houdayfahousny@gmail.com">houdayfahousny@gmail.com</a> | 📱 +212 665 087 773
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" />
+</p>
