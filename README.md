@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=github" height="32" alt="GitHub"/>
   </a>
     &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/houdayfa/" target="_blank" title="LeetCode">
+  <a href="https://leetcode.com/" target="_blank" title="LeetCode">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="32" width="42" alt="LeetCode"/>
   </a>
 </p>
